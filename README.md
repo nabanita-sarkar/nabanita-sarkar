@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/nabanita-sarkar/nabanita-sarkar/blob/main/Banner.png" alt="banner reads - Nabanita Sarkar. I love to make web beautiful" >
+<!-- <img src="https://github.com/nabanita-sarkar/nabanita-sarkar/blob/main/Banner.png" alt="banner reads - Nabanita Sarkar. I love to make web beautiful" >
 
 I'm a final year Electronics & Communication engineering undergrad, based in West Bengal, India.
 
-I enjoy building beautiful and performant front-end so that end users can get top class experience. Aside from building UI, I am profient in Mathematical Computation and automation using Python.
+I enjoy building beautiful and performant websites so that end users can get top class experience. Aside from building websites, I am profient in Mathematical Computation using Python.
 
 <!-- ### Find me around the web 🌎: -->
