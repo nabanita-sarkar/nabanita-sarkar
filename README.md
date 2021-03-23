@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <img src="https://github.com/nabanita-sarkar/nabanita-sarkar/blob/main/Banner.png" alt="banner reads - Nabanita Sarkar. I love to make web beautiful" > -->
+<img src="https://github.com/nabanita-sarkar/nabanita-sarkar/blob/main/Banner.png" alt="banner reads - Nabanita Sarkar. I love to make web beautiful" >
 
 I'm a final year Electronics & Communication engineering undergrad, based in West Bengal, India.
 
