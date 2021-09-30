@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 
 I enjoy building beautiful and performant websites so that end users can get top class experience. Aside from building websites, I am profient in Mathematical Computation using Python.-->
 
-![Nabanita's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabanita-sarkar&show_icons=true&count_private=true&theme=default)
+![Nabanita's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabanita-sarkar&show_icons=true&count_private=true&theme=default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabanita-sarkar&compact=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabanita-sarkar&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabanita-sarkar)](https://git.io/streak-stats)
 
 
 <!-- ### Find me around the web 🌎: -->
