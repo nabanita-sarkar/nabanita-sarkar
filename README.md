@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on [Todoick](https://github.com/nabanita-sarkar/Todoick), [OctoHub](https://github.com/nabanita-sarkar/github-charts)
-- 🌱 I’m currently learning **Nextjs, Flutter**
+- 🔭 I’m currently working on [Supakeep](https://github.com/nabanita-sarkar/supakeep)
+- 🌱 I’m currently learning **Nextjs**
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for advice on how to build a sustainable career in tech
 - 💬 Ask me about: React, Python 
