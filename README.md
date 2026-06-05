@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-- [ ] Hello
-
 
 <!-- I'm a final year Electronics & Communication engineering undergrad, based in West Bengal, India.
 
